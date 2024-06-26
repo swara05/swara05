@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **srushtihirpara0005@gmail.com**
 
-<h3 align="left" >Connect with me:</h3>
+- ⚡ Fun fact **Creative**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srushti-hirpara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srushti-hirpara" height="30" width="40" /></a>
 <a href="https://codesandbox.com/swara05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="swara05" height="30" width="40" /></a>
