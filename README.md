@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React Native, Javascript, react and Database system**
 
-- 📫 How to reach me **srushtihirpara0005@gmail.com**
+- 📫 How to reach me **srushtihirpara.1@gmail.com**
 
 - ⚡ Fun fact **Creative**
 
